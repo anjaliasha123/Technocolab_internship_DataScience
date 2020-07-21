@@ -3,4 +3,5 @@
 <ol>
   <li>Python for Data Science Kaggle HandsOn -Completed on 15 July, 2020</li>
   <li>SQL For Data Extracting Technique Kaggle HandsOn - Completed on 16 July, 2020</li>
+  <li>Python for Data Manipulation Kaggle HandsOn - Completed on July 21,2020</li>
 </ol>
